@@ -3,6 +3,10 @@
 
 This project demonstrates how to set up a RabbitMQ priority queue using Docker Compose, with Python scripts for producing and consuming messages.
 
+<div align="center">
+   <img src="https://github.com/abhayadevms/rabbitmq/assets/35250410/be3cdc80-df58-44c1-9ff8-32d0d87cd7b6" alt="Screenshot" width="400" height='200'>
+</div>
+
 ## Setup
 
 1. **Clone the repository:**
