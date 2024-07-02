@@ -8,5 +8,6 @@ This project demonstrates how to set up a RabbitMQ priority queue using Docker C
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/yourusername/rabbitmq-priority-queue.git
-   cd rabbitmq-priority-queue
+   git clone https://github.com/abhayadevms/rabbitmq.git
+   cd rabbitmq
+   ```
